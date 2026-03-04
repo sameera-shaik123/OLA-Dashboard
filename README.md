@@ -108,7 +108,7 @@ This view analyzes ride patterns across different vehicle categories.
 **Includes:**
 - 🚗 Top 5 Vehicle Types by Ride Distance  
 
-Vehicle Type Analysis Preview-()
+Vehicle Type Analysis Preview-(https://github.com/sameera-shaik123/OLA-Dashboard/blob/main/Vehicle%20Type%20Analysis.png)
 
 ---
 
@@ -121,7 +121,7 @@ This section focuses on revenue generation and customer value insights.
 - 🏆 Top 5 Customers by Total Booking Value  
 - 📏 Ride Distance Distribution Per Day  
 
-Revenue Analysis Preview-()
+Revenue Analysis Preview-(https://github.com/sameera-shaik123/OLA-Dashboard/blob/main/Revenue%20Analysis.png)
 
 ---
 
@@ -133,7 +133,7 @@ This view identifies cancellation behavior and root causes.
 - ❌ Cancelled Ride Reasons (Customer)  
 - ❌ Cancelled Ride Reasons (Driver)  
 
-Cancellation Analysis Preview-()
+Cancellation Analysis Preview-(https://github.com/sameera-shaik123/OLA-Dashboard/blob/main/Cancellation%20Analysis.png)
 
 ---
 
@@ -145,7 +145,7 @@ This section evaluates service quality through ratings.
 - ⭐ Driver Ratings  
 - ⭐ Customer Ratings  
 
-Ratings Analysis Preview-()
+Ratings Analysis Preview-(https://github.com/sameera-shaik123/OLA-Dashboard/blob/main/Ratings%20Analysis.png)
 
 ---
 
