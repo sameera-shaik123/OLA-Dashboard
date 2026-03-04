@@ -149,5 +149,9 @@ Ratings Analysis Preview-(https://github.com/sameera-shaik123/OLA-Dashboard/blob
 
 ---
 
+## 🗃 SQL Query File
 
+All SQL queries used for analysis can be found here:
+
+📂 
 
