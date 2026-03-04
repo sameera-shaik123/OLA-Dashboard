@@ -81,12 +81,73 @@ The project involved cleaning and processing raw booking data from multiple sour
 
 ---
 
-## 6️⃣ 📸 Dashboard Screenshot
+## 6️⃣ 📸 Dashboard Snapshots
 
-<img src="images/dashboard.png" alt="OLA Cancellation Dashboard" width="800"/>
+## 📊 Dashboard Views
 
-*(Add your dashboard screenshot inside a folder named `images` in this repository and name it `dashboard.png`)*
+The Power BI dashboard is divided into five analytical views for structured business analysis:
 
 ---
+
+### 1️⃣ Overall View
+
+This section provides a high-level summary of booking performance and operational trends.
+
+**Includes:**
+- 📈 Ride Volume Over Time  
+- 📊 Booking Status Breakdown  
+
+Overall view Preview-()
+
+---
+
+### 2️⃣ Vehicle Type Analysis
+
+This view analyzes ride patterns across different vehicle categories.
+
+**Includes:**
+- 🚗 Top 5 Vehicle Types by Ride Distance  
+
+Vehicle Type Analysis Preview-()
+
+---
+
+### 3️⃣ Revenue Analysis
+
+This section focuses on revenue generation and customer value insights.
+
+**Includes:**
+- 💳 Revenue by Payment Method  
+- 🏆 Top 5 Customers by Total Booking Value  
+- 📏 Ride Distance Distribution Per Day  
+
+Revenue Analysis Preview-()
+
+---
+
+### 4️⃣ Cancellation Analysis
+
+This view identifies cancellation behavior and root causes.
+
+**Includes:**
+- ❌ Cancelled Ride Reasons (Customer)  
+- ❌ Cancelled Ride Reasons (Driver)  
+
+Cancellation Analysis Preview-()
+
+---
+
+### 5️⃣ Ratings Analysis
+
+This section evaluates service quality through ratings.
+
+**Includes:**
+- ⭐ Driver Ratings  
+- ⭐ Customer Ratings  
+
+Ratings Analysis Preview-()
+
+---
+
 
 
