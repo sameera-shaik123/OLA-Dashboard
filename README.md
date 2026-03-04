@@ -153,5 +153,5 @@ Ratings Analysis Preview-(https://github.com/sameera-shaik123/OLA-Dashboard/blob
 
 All SQL queries used for analysis can be found here:
 
-📂 
+📂 (https://github.com/sameera-shaik123/OLA-Dashboard/blob/main/Ola-sql.sql)
 
